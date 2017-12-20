@@ -1,18 +1,20 @@
-#My Dotfiles
+# My Dotfiles
 
 Settings and config files so I can be up and running quickly on a new machine.
 
-##Features
+## Features
 - iTerm 2, Zsh, Git configurations
 - helpful commands
 
-##Tools and Software
-- [iTerm 2]()
-- [SublimeText 3]()
-- Z shell
-- oh-my-zsh
+## Tools and Software
+- [Git](https://git-scm.com/)
+- [iTerm 2](https://iterm2.com/)
+- [SublimeText 3](https://www.sublimetext.com)
+- Z shell(http://zsh.sourceforge.net/)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Bannertime](https://bannertime.github.io)
 
-##Useful commands
+## Useful commands
 Zsh/Bash commands referenced from [Stratus 3D](https://github.com/Stratus3D/dotfiles/)
 - `python -m SimpleHTTPServer 8000` runs a webserver that serves the contents of the directory
 - `php -S 0.0.0.0:8080` also runs a webserver with the contents of the current directory
