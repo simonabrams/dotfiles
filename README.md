@@ -14,6 +14,9 @@ Settings and config files so I can be up and running quickly on a new machine.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Bannertime](https://bannertime.github.io)
 
+## iTerm 2 Theme
+- [Droid Sans Mono for Powerline](https://github.com/powerline/fonts/tree/master/DroidSansMono)
+
 ## Useful commands
 Zsh/Bash commands referenced from [Stratus 3D](https://github.com/Stratus3D/dotfiles/)
 - `python -m SimpleHTTPServer 8000` runs a webserver that serves the contents of the directory
@@ -29,3 +32,11 @@ Zsh/Bash commands referenced from [Stratus 3D](https://github.com/Stratus3D/dotf
 - `Esc-F` move forward one word
 - `^U` delete from cursor to the beginning of the line
 - `^K` delete from the cursor to the end of the line
+
+## Fun
+- [Emoji Cheat Sheet][emoji-cheatsheet]
+
+
+
+
+[emoji-cheatsheet]: https://www.webpagefx.com/tools/emoji-cheat-sheet/
